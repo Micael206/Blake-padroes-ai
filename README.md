@@ -1,2 +1,1 @@
-# Blake-padroes-ai
-Analisador de padrões da blaze Double  com ia 
+# Blaze Padrões com IA\nPainel inteligente para análise de padrões do Blaze Double.
